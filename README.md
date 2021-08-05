@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLacerda27&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  ###
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-JAVA" height="30" width="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Joao-ANGULAR" height="30" width="40" img ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
