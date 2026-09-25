@@ -1,155 +1,118 @@
-# 👋 Hi, I'm João Vitor Lacerda
+# João Vitor Lacerda
 
-### 🚀 Senior Backend Developer | Java | Spring Boot | AWS | Cloud | AI
+### Senior Backend Developer · Java · Spring Boot · Cloud · AI
 
-I'm a software engineer passionate about building **scalable, reliable, and well-architected systems**.
+Software Engineer focused on building **scalable backend systems, cloud-native applications, and reliable software architectures**.
 
-I currently work mainly with **Java, Spring Boot, AWS, and Terraform**, contributing to enterprise-grade and distributed systems in global environments.
-
-I also have experience with **React, TypeScript, databases, messaging systems, Infrastructure as Code, and AI-powered applications**.
+Currently working with **Java, Spring Boot, AWS, Terraform, distributed systems and enterprise applications**, while exploring the intersection between **software engineering and Artificial Intelligence**.
 
 ---
 
-## 🧑‍💻 About Me
+### About
 
-* 💻 Senior Backend Developer
-* ☕ Strong focus on **Java & Spring Boot**
-* ☁️ Experience with **AWS, Azure, GCP & Terraform**
-* 🤖 Interested in **Artificial Intelligence & AI-powered applications**
-* ⚛️ Experience with **React & TypeScript**
-* 🗄️ PostgreSQL & Redis
-* 📨 RabbitMQ & Amazon SQS
-* 🐳 Docker & Docker Compose
-* 🧪 Automated testing & software engineering best practices
-* 🌎 Experience working with **global teams**
-* 🎓 BSc in Computer Science
-* 🎓 MBA in Software Engineering
+* 💼 Senior Backend Developer
+* ☕ Java & Spring Boot
+* ☁️ AWS · Azure · GCP
+* 🏗️ Software Architecture & Distributed Systems
+* 🤖 Artificial Intelligence & AI-powered applications
+* ⚛️ React & TypeScript
+* 📨 RabbitMQ · Amazon SQS · Redis
+* 🗄️ PostgreSQL
+* 🐳 Docker & Infrastructure as Code
+* 🌎 Experience working with global teams
 
 ---
 
-## 🛠️ Tech Stack
+### Technology
 
-### Backend
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
-</p>
+`Java` `TypeScript` `JavaScript` `Python`
 
-### Frontend
+**Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,tailwind" />
-</p>
+`Spring Boot` `REST APIs` `JPA` `QueryDSL` `Gradle` `Maven`
 
-### Cloud & DevOps
+**Cloud & Infrastructure**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,githubactions" />
-</p>
+`AWS` `Azure` `GCP` `Terraform` `Docker` `GitHub Actions`
 
-### Databases & Messaging
+**Data & Messaging**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,rabbitmq" />
-</p>
+`PostgreSQL` `Redis` `RabbitMQ` `Amazon SQS`
 
-### Artificial Intelligence
+**Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+`React` `Vite` `Tailwind CSS`
 
-**AI • LLMs • AI Agents • Prompt Engineering • AI-powered Applications**
+**AI**
+
+`LLMs` `AI Agents` `Prompt Engineering` `AI Integrations`
 
 ---
 
-## 🚀 What I Like Building
+### Engineering Interests
 
 ```text
-☕ Java / Spring Boot
-🏗️ Software Architecture
-☁️ Cloud-Native Applications
-🤖 Artificial Intelligence
-📦 Distributed Systems
-📨 Event-Driven Architecture
-🔐 APIs & Integrations
-⚙️ DevOps & Infrastructure as Code
-⚛️ React / TypeScript
-🚀 SaaS Products
+Software Architecture
+Distributed Systems
+Event-Driven Architecture
+Cloud-Native Applications
+API Design
+Infrastructure as Code
+Artificial Intelligence
+SaaS Platforms
+Developer Experience
 ```
 
 ---
 
-## 📊 GitHub Stats
+### Featured Projects
 
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoLacerda27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoLacerda27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" /> </p>
+#### Turbo OS
 
----
+A SaaS platform built for automotive businesses, including repair shops, car washes and auto parts stores.
 
-## 🐍 Contribution Snake
+**Java · Spring Boot · React · TypeScript · PostgreSQL · AWS · Terraform**
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/JoaoLacerda27/JoaoLacerda27/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+> Focused on business automation, service orders, inventory, integrations, notifications and operational management.
 
 ---
 
-## 📌 Featured Projects
+#### Movy
 
-### 🚗 Turbo OS
+Backend application focused on modern Java development and efficient data access.
 
-A SaaS platform designed for **automotive businesses**, including repair shops, car washes, and auto parts stores.
-
-**Tech Stack:**
-
-`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `AWS` `Terraform`
-
-The platform includes service orders, customers, vehicles, parts, quotes, notifications, integrations, and business automation.
+**Java 17 · Spring Boot · Gradle · PostgreSQL · QueryDSL**
 
 ---
 
-### 🎬 Movy
+#### SmartEntry AI
 
-A backend application built with modern Java and Spring technologies, focusing on clean architecture and efficient data access.
+Academic project combining computer vision, artificial intelligence and hardware automation for license plate recognition.
 
-**Tech Stack:**
-
-`Java 17` `Spring Boot` `Gradle` `PostgreSQL` `QueryDSL`
+**Python · Computer Vision · AI · Arduino**
 
 ---
 
-### 🤖 SmartEntry AI
+### What I'm currently exploring
 
-An academic project combining **Artificial Intelligence, computer vision, and hardware automation** for license plate recognition.
+> **AI × Software Engineering**
 
-**Tech Stack:**
-
-`Python` `AI` `Computer Vision` `Arduino`
+I'm particularly interested in building applications where AI is integrated into real software systems — from intelligent agents and automation to developer tools and business workflows.
 
 ---
 
-## 🌎 Let's Build Something Great
+### Let's connect
 
-I'm interested in working on projects involving:
+I'm always interested in discussing:
 
-**Backend • Cloud • AI • Distributed Systems • SaaS • Software Architecture**
+**Software Engineering · Backend · Cloud · AI · Architecture · SaaS**
 
-Feel free to connect with me and talk about technology, software engineering, or interesting projects.
-
-<p align="left">
-  <a href="https://github.com/JoaoLacerda27">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[GitHub](https://github.com/JoaoLacerda27) · [LinkedIn](https://www.linkedin.com/)
 
 ---
 
 <p align="center">
-  <i>Building software, solving problems, and learning every day.</i>
+  <sub>Building software that solves real problems.</sub>
 </p>
